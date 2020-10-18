@@ -1,0 +1,18 @@
+There are 2 type of comments :
+(Comment is that line which you want ignore that line in Python)
+Single line comment     # 
+Multiline comment    """ """
+
+
+
+Escape Sequence 
+\newline   Backslash and newline ignored
+\\        Backslash (\)
+\'        Single quote (')
+\"        Double quote (")
+\n        New Line Character
+\t        TAB
+
+end = '' "     Python's print() function comes with a parameter called 'end' i.e. the new line character
+
+
